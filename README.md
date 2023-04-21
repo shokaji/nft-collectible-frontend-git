@@ -1,4 +1,4 @@
-ミントサイト(Vercel)
+ミントサイト
 <p>https://nft-collectible-frontend-jmz1md8k6-shokaji.vercel.app/
 
 ||コントラクトアドレス|
