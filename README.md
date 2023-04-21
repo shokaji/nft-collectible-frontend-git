@@ -1,5 +1,5 @@
 ミントサイト(Vercel)
-https://nft-collectible-frontend-nlxfu985q-shokaji.vercel.app/
+<p>https://nft-collectible-frontend-nlxfu985q-shokaji.vercel.app/
 
 ||コントラクトアドレス|
 |:---|:---|
